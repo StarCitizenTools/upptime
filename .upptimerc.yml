@@ -29,12 +29,12 @@ workflowSchedule:
   
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  # cname: demo.upptime.js.org
+  cname: status.starcitizen.tools
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  baseUrl: /upptime
+  # baseUrl: /upptime
   favicon: /assets/favicon.png
   logoUrl: /assets/sct-logo.svg
-  name: Current status - Star Citizen Tools
+  name: Current status - Star Citizen Wiki
   introTitle:
   introMessage:
   navbar:
