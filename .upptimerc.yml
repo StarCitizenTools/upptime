@@ -14,6 +14,7 @@ status-website:
   # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /upptime
+  favicon: https://starcitizen.tools/resources/assets/favicon.png
   logoUrl: https://starcitizen.tools/resources/assets/sitelogo.svg
   name: Star Citizen Tools
   introTitle:
