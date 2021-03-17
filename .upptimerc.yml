@@ -5,9 +5,9 @@ repo: upptime # Your GitHub repository name
 # Add your sites here
 sites:
   - name: Main wiki
-    url: https://www.starcitizen.tools
+    url: https://starcitizen.tools
   - name: Development wiki
-    url: https://www.dev.starcitizen.tools
+    url: https://dev.starcitizen.tools/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
