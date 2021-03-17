@@ -20,7 +20,13 @@ sites:
   #- name: REST API (development wiki)
   #  url: https://dev.starcitizen.tools/rest.php/v1/page/Gladius
   #  method: GET
-
+ 
+# CI schedule
+workflowSchedule:
+  # Check for response time every hour
+  graphs: "0 */1 * * *"
+  responseTime: "0 */1 * * *"
+  
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
