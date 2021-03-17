@@ -16,7 +16,7 @@ status-website:
   baseUrl: /upptime
   favicon: https://starcitizen.tools/resources/assets/favicon.png
   logoUrl: https://starcitizen.tools/resources/assets/sitelogo.svg
-  name: Star Citizen Tools
+  name: Current status - Star Citizen Tools
   introTitle:
   introMessage:
   navbar:
