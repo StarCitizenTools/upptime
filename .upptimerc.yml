@@ -6,18 +6,18 @@ repo: upptime # Your GitHub repository name
 sites:
   - name: Main wiki
     url: https://starcitizen.tools
-  - name: Action API - main wiki
+  - name: Action API (main wiki)
     url: https://starcitizen.tools/api.php?action=query&prop=info&titles=Gladius
     method: GET
-  #- name: REST API - main wiki
+  #- name: REST API (main wiki)
   #  url: https://starcitizen.tools/rest.php/v1/page/Gladius
   #  method: GET
   - name: Development wiki
     url: https://dev.starcitizen.tools/
-  - name: Action API - development wiki
+  - name: Action API (development wiki)
     url: https://dev.starcitizen.tools/api.php?action=query&prop=info&titles=Gladius
     method: GET
-  - name: REST API - development wiki
+  - name: REST API (development wiki)
     url: https://dev.starcitizen.tools/rest.php/v1/page/Gladius
     method: GET
 
