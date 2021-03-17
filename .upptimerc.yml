@@ -38,8 +38,8 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/
-  theme: dark
-  themeUrl: /assets/sct-dark.css
+  theme: light
+  #themeUrl: /assets/sct-dark.css
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
