@@ -1,8 +1,8 @@
 [
   {
     "name": "Main wiki",
-    "url": "https://www.starcitizen.tools",
-    "icon": "https://favicons.githubusercontent.com/www.starcitizen.tools",
+    "url": "https://starcitizen.tools",
+    "icon": "https://favicons.githubusercontent.com/starcitizen.tools",
     "slug": "main-wiki",
     "status": "up",
     "uptime": "100.00%",
@@ -10,31 +10,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 21502,
-    "timeDay": 21502,
-    "timeWeek": 21502,
-    "timeMonth": 21502,
-    "timeYear": 21502,
+    "time": 10977,
+    "timeDay": 10977,
+    "timeWeek": 10977,
+    "timeMonth": 10977,
+    "timeYear": 10977,
     "dailyMinutesDown": {}
   },
   {
     "name": "Development wiki",
-    "url": "https://www.dev.starcitizen.tools",
-    "icon": "https://favicons.githubusercontent.com/www.dev.starcitizen.tools",
+    "url": "https://dev.starcitizen.tools/",
+    "icon": "https://favicons.githubusercontent.com/dev.starcitizen.tools",
     "slug": "development-wiki",
-    "status": "down",
-    "uptime": "9.52%",
-    "uptimeDay": "9.52%",
-    "uptimeWeek": "9.52%",
-    "uptimeMonth": "9.52%",
-    "uptimeYear": "9.52%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.35%",
+    "uptimeDay": "0.35%",
+    "uptimeWeek": "0.35%",
+    "uptimeMonth": "0.35%",
+    "uptimeYear": "0.35%",
+    "time": 554,
+    "timeDay": 554,
+    "timeWeek": 554,
+    "timeMonth": 554,
+    "timeYear": 554,
     "dailyMinutesDown": {
-      "2021-03-17": 0
+      "2021-03-17": 3
     }
   }
 ]
