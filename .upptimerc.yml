@@ -26,8 +26,8 @@ status-website:
   # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /upptime
-  favicon: https://starcitizen.tools/resources/assets/favicon.png
-  logoUrl: https://starcitizen.tools/resources/assets/sitelogo.svg
+  favicon: /assets/favicon.png
+  logoUrl: /assets/sct-logo.svg
   name: Current status - Star Citizen Tools
   introTitle:
   introMessage:
@@ -39,6 +39,7 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/
   theme: dark
+  themeUrl: /assets/sct-dark.css
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
