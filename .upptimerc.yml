@@ -28,8 +28,8 @@ sites:
 # CI schedule
 workflowSchedule:
   # Check for response time every hour
-  graphs: "0 * * * *"
   responseTime: "0 * * * *"
+  graphs: "2 * * * *"
   
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
