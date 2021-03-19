@@ -41,7 +41,6 @@ status-website:
   favicon: https://starcitizen.tools/resources/assets/favicon.png
   logoUrl: https://starcitizen.tools/resources/assets/sitelogo.svg
   name: Current status - Star Citizen Wiki
-  customHeadHtml: "<style>:root{--body-background-color:#131a21;--body-text-color:rgba(255, 255, 255, 0.6);--card-background-color:#282f35;--nav-background-color:transparent;--nav-border-bottom-color:transparent;--nav-current-border-bottom-color:#36c;--card-border-color:rgba(255, 255, 255, 0.05);--down-border-left-color:#dd3333;--down-background-color:#6b1020;--degraded-border-left-color:#ffcc33;--up-border-left-color:#00af89;--tag-color:#1f262c;--tag-up-background-color:#14866d;--tag-down-background-color:#b32424;--tag-degraded-background-color:#ac6600;--change-background-color:#f7b731;--error-button-border-color:#1a46ad;--error-button-background-color:#3867d6;--error-button-color:#ffffff;--submit-button-border-color:#1a46ad;--submit-button-background-color:#3867d6;--submit-button-color:#ffffff;--graph-opacity:1;--graph-filter:none}.logo>img{filter:invert(1);opacity:.3}.logo>div{display:none}</style>"
   introTitle:
   introMessage:
   navbar:
@@ -51,7 +50,7 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/
-  theme: light
+  theme: dark
   #themeUrl: /assets/sct-dark.css
 
 # Upptime also supports notifications, assigning issues, and more
