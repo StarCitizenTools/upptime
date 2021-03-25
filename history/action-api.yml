@@ -1,7 +1,7 @@
 url: https://starcitizen.tools/api.php?action=query&prop=info&titles=Gladius
 status: up
 code: 200
-responseTime: 90
-lastUpdated: 2021-03-25T06:29:51.776Z
+responseTime: 83
+lastUpdated: 2021-03-25T07:26:01.438Z
 startTime: Wed Mar 17 2021 17:13:10 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
