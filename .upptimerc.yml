@@ -53,6 +53,7 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/
   theme: dark
+  customHeadHtml: "<style>/* Author: Alistair3149 */ :root{--body-background-color:#131a21!important;--body-text-color:rgba(255, 255, 255, 0.6)!important;--card-background-color:#282f35!important;--nav-background-color:transparent!important;--nav-border-bottom-color:transparent!important;--nav-current-border-bottom-color:#36c!important;--card-border-color:rgba(255, 255, 255, 0.05)!important;--down-border-left-color:#dd3333!important;--down-background-color:#6b1020!important;--degraded-border-left-color:#ffcc33!important;--up-border-left-color:#00af89!important;--tag-color:#1f262c!important;--tag-up-background-color:#14866d!important;--tag-down-background-color:#b32424!important;--tag-degraded-background-color:#ac6600!important;--change-background-color:#f7b731!important;--error-button-border-color:#1a46ad!important;--error-button-background-color:#3867d6!important;--error-button-color:#ffffff!important;--submit-button-border-color:#1a46ad!important;--submit-button-background-color:#3867d6!important;--submit-button-color:#ffffff!important;--graph-opacity:1!important;--graph-filter:none!important}</style>"
   #themeUrl: /assets/sct-dark.css
 
 # Upptime also supports notifications, assigning issues, and more
