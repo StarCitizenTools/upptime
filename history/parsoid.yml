@@ -1,7 +1,7 @@
 url: https://starcitizen.tools/api.php?action=visualeditor&format=json&paction=parse&page=Star_Citizen_Wiki
 status: up
 code: 200
-responseTime: 562
-lastUpdated: 2021-03-28T18:36:16.173Z
+responseTime: 589
+lastUpdated: 2021-03-28T19:23:25.570Z
 startTime: Thu Mar 18 2021 19:35:18 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
