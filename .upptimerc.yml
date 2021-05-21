@@ -10,14 +10,14 @@ sites:
     url: https://starcitizen.tools/api.php?action=query&prop=info&titles=Gladius
     method: GET
   - name: Parsoid
-    url: https://starcitizen.tools/api.php?action=visualeditor&format=json&paction=parse&page=Star_Citizen_Wiki
+    url: https://starcitizen.tools/api.php?action=visualeditor&format=json&paction=parse&page=Gladius
     method: GET
     __dangerous__body_down: "apierror-"
   - name: Direct connect
     url: https://scw.czen.me
-  #- name: REST API
-  #  url: https://starcitizen.tools/rest.php/v1/page/Gladius
-  #  method: GET
+  - name: REST API
+    url: https://starcitizen.tools/rest.php/v1/page/Gladius
+    method: GET
   #- name: Development wiki
   #  url: https://dev.starcitizen.tools/
   #- name: Action API (development wiki)
